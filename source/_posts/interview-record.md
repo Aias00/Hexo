@@ -91,6 +91,7 @@ tags: [interview]
 - 题库中有 100 道题，如何随机插入到数据库
 - name 和 age，做联合索引哪个在前
 - 商家 id，用户 id，商品 id，如何分库分表，商家可以看到所有他卖出的商品，用户可以看到所有他买到的商品
+- ReentrantLock和synchronized区别
 
 ### 火花思维二面
 
