@@ -1,3 +1,11 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+.vsode
 # Logs
 logs
 *.log
@@ -102,3 +110,4 @@ dist
 
 # TernJS port file
 .tern-port
+themes/*
