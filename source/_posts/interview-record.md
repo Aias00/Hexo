@@ -19,6 +19,8 @@ tags: [interview]
 - 分布式不用 queue 排队，如何实现抢工单
 - 分布式锁
 - dubbo 支持的协议，用的哪个协议，序列化，服务注册和发现
+- dubbo消费者是如何调用到连接者的
+- 两个消费者提供的服务名一样 包名都一样
 - springboot 和 springmvc 的区别
 - 算法：倒排链表
 - JVM 结构
@@ -34,6 +36,7 @@ tags: [interview]
 ### 百度二面
 
 - rabbitmq 如何保证消息不丢失，rabbitmq 顺序消费
+- java内存模型哪个区域最容易发生内存泄漏
 - 加载一个类涉及到哪些内存区域
 - dubbo 如何实现泛化（不引入 jar 包如何调用提供者的方法）
 - 共识算法
@@ -47,6 +50,7 @@ tags: [interview]
 - concurrentHashMap1.7、1.8
 - countDownLatch
 - try 里面 return，finally 里面 return，会返回什么，finally 什么时候执行的
+- spring如何做到ioc的
 - spring bean 什么时候创建的，什么时候销毁的
 - static/private static/final 哪些是线程安全的
 - threadLocal
